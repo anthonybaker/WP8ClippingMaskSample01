@@ -1,10 +1,4 @@
-Author:		Anthony Baker
-Name:		ClippingMaskSample_01
-Date Created:	04/04/2013
-Platform:	Windows Phone 8
+WP8ClippingMaskSample01
+===============================
 
-Description:
-
-Simple project demonstrating how to create clipping masks for UI elements
-in XAML code for Windows Phone 8.
-		
+Simple project demonstrating how to implement clipping masks on different UI elements in XAML on Windows Phone 8.
